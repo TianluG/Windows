@@ -44,4 +44,4 @@ Use the `print()` function
 
 ``There is a literal backtick (`) here.``
 
-![windows](/TianluG/TianluG.github.io/windows.jpg)
+![windows](windows.jpg)
