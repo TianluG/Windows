@@ -13,4 +13,4 @@ Use the `print()` function
 
 ``There is a literal backtick (`) here.``
 
-![windows](windows.jpg)
+![windows](windows.JPG)
